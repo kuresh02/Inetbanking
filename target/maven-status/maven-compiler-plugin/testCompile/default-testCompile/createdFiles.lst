@@ -1,0 +1,9 @@
+com\webapp\guru\Testutility\ReadConfig.class
+com\webapp\guru\TestCase\TC_002_LoginTestCaseDDT_002.class
+com\webapp\guru\Testutility\XLUtils.class
+com\webapp\guru\Testutility\Reporting.class
+com\webapp\guru\PageObject\LoginPage.class
+com\webapp\guru\TestCase\BaseClass.class
+com\webapp\guru\PageObject\AddCustomerPage.class
+com\webapp\guru\TestCase\Hm.class
+com\webapp\guru\TestCase\TC_AddCustomerTest_003.class

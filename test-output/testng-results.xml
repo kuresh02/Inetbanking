@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-22T08:31:14Z" name="InetBankingV1" finished-at="2023-06-22T08:31:38Z" duration-ms="24308">
+    <groups>
+    </groups>
+    <test started-at="2023-06-22T08:31:14Z" name="BankingApp Test" finished-at="2023-06-22T08:31:38Z" duration-ms="24308">
+      <class name="com.webapp.guru.TestCase.TC_002_LoginTestCaseDDT_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.webapp.guru.TestCase.TC_002_LoginTestCaseDDT_002@120f102b]" started-at="2023-06-22T14:01:27Z" name="setup" finished-at="2023-06-22T14:01:31Z" duration-ms="3725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.webapp.guru.TestCase.TC_002_LoginTestCaseDDT_002@120f102b]" started-at="2023-06-22T14:01:32Z" name="loginDDT" data-provider="LoginData" finished-at="2023-06-22T14:01:38Z" duration-ms="6211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr507341]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yrEmYzy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webapp.guru.TestCase.TC_002_LoginTestCaseDDT_002@120f102b]" started-at="2023-06-22T14:01:38Z" name="tearDown" finished-at="2023-06-22T14:01:38Z" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webapp.guru.TestCase.TC_002_LoginTestCaseDDT_002 -->
+      <class name="com.webapp.guru.TestCase.Hm">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.webapp.guru.TestCase.Hm@41fecb8b]" started-at="2023-06-22T14:01:14Z" name="setup" finished-at="2023-06-22T14:01:23Z" duration-ms="8694" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.webapp.guru.TestCase.Hm@41fecb8b]" started-at="2023-06-22T14:01:23Z" name="loginTest" finished-at="2023-06-22T14:01:27Z" duration-ms="3580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webapp.guru.TestCase.Hm@41fecb8b]" started-at="2023-06-22T14:01:27Z" name="tearDown" finished-at="2023-06-22T14:01:27Z" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webapp.guru.TestCase.Hm -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>
